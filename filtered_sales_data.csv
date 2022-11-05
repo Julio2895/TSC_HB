@@ -1,0 +1,1734 @@
+PropertyState,PropertyCity,ProductName,sales
+Oregon,Portland,"Portable Drill",3315
+Tennessee,Nashville,"Bed (King)",3000
+Texas,Dallas,"Bed (King)",3000
+Washington,Seattle,"Leaf Blower",2828
+Pennsylvania,Philadelphia,"Bed (King)",2700
+Florida,Orlando,"Bed (King)",2700
+California,"San Francisco","Bed (King)",2700
+Virginia,Richmond,"Leaf Blower",2626
+California,"Los Angeles","Portable Drill",2535
+California,"Los Angeles","Bed (Double)",2500
+Arizona,Phoenix,"Bed (Double)",2500
+Florida,Orlando,Sofa,2365
+Missouri,"Kansas City","Portable Drill",2340
+Arizona,Phoenix,"Portable Drill",2340
+Illinois,Chicago,"Bed (Double)",2250
+Pennsylvania,Philadelphia,"Luggage Cart",2208
+Missouri,"Kansas City",Television,2200
+Virginia,Arlington,Sofa,2150
+Massachusetts,Boston,Sofa,2150
+Illinois,Chicago,Sofa,2150
+Ohio,Cincinnati,"Bed (King)",2100
+Florida,Orlando,"Luggage Cart",2070
+Texas,Dallas,Television,2000
+Missouri,"Kansas City","Bed (Double)",2000
+Colorado,Denver,"Bed (Double)",2000
+Oregon,Portland,"Chest of Drawers",1950
+California,"San Francisco","Leaf Blower",1818
+Illinois,Chicago,"Leaf Blower",1818
+Georgia,Atlanta,"Bed (King)",1800
+Georgia,Atlanta,Television,1800
+Colorado,Denver,"Bed (King)",1800
+Virginia,Arlington,"Chest of Drawers",1800
+"New York","New York","Bed (King)",1800
+Missouri,"Kansas City","Bed (King)",1800
+"New York","New York","Luggage Cart",1794
+Washington,Seattle,"Bed (Double)",1750
+Virginia,Richmond,"Bed (Double)",1750
+Louisiana,"New Orleans",Sofa,1720
+California,"San Francisco","Chest of Drawers",1650
+California,"Los Angeles","Chest of Drawers",1650
+California,"Los Angeles","Door Lock",1638
+Tennessee,Nashville,"Computer Desk",1632
+Missouri,"Kansas City","Leaf Blower",1616
+Colorado,Denver,"Leaf Blower",1616
+Massachusetts,Boston,"Leaf Blower",1616
+Virginia,Arlington,Armoire,1610
+Pennsylvania,Philadelphia,Television,1600
+Illinois,Chicago,Television,1600
+California,"San Francisco","Portable Drill",1560
+Illinois,Chicago,"Portable Drill",1560
+Virginia,Arlington,"Coffee Maker",1547
+Louisiana,"New Orleans","Luggage Cart",1518
+Ohio,Cincinnati,"Luggage Cart",1518
+Georgia,Atlanta,Sofa,1505
+Nevada,"Las Vegas","Bed (Double)",1500
+Massachusetts,Boston,"Bed (Double)",1500
+Arizona,Phoenix,"Chest of Drawers",1500
+Florida,Orlando,"Chest of Drawers",1500
+Massachusetts,Boston,"Bed (King)",1500
+Florida,Orlando,"Bed (Double)",1500
+Arizona,Phoenix,"Bed (King)",1500
+Virginia,Richmond,Safe,1495
+Louisiana,"New Orleans","Leaf Blower",1414
+Texas,Dallas,"Leaf Blower",1414
+Washington,Seattle,Monitor,1400
+Louisiana,"New Orleans","Portable Drill",1365
+Texas,Dallas,"Portable Drill",1365
+Virginia,Arlington,"Portable Drill",1365
+Pennsylvania,Philadelphia,"Portable Drill",1365
+Tennessee,Nashville,"Portable Drill",1365
+Tennessee,Nashville,Mirror,1360
+Tennessee,Nashville,"Chest of Drawers",1350
+Nevada,"Las Vegas",Ladder,1335
+Texas,Dallas,Sofa,1290
+Nevada,"Las Vegas","Door Lock",1287
+Ohio,Cincinnati,Mirror,1275
+Missouri,"Kansas City",Painting,1275
+Arizona,Phoenix,Painting,1275
+Massachusetts,Boston,Safe,1265
+Texas,Dallas,"Bed (Double)",1250
+California,"San Francisco","Bed (Double)",1250
+Louisiana,"New Orleans","Bed (Double)",1250
+Louisiana,"New Orleans",Ladder,1246
+California,"San Francisco","Coffee Table",1236
+Nevada,"Las Vegas","Leaf Blower",1212
+"New York","New York","Leaf Blower",1212
+Tennessee,Nashville,"Low Chair",1200
+Washington,Seattle,"Bed (King)",1200
+Virginia,Arlington,"Bed (King)",1200
+Oregon,Portland,"Bed (King)",1200
+Massachusetts,Boston,"Office Chair",1190
+Washington,Seattle,"Portable Drill",1170
+Virginia,Richmond,"Portable Drill",1170
+Georgia,Atlanta,"Door Lock",1170
+Georgia,Atlanta,Armoire,1150
+Nevada,"Las Vegas","Tall Chair",1125
+Pennsylvania,Philadelphia,"Computer Desk",1122
+Louisiana,"New Orleans",Painting,1105
+Virginia,Richmond,"Luggage Cart",1104
+California,"Los Angeles",Sofa,1075
+Tennessee,Nashville,Sofa,1075
+California,"San Francisco",Sofa,1075
+Oregon,Portland,Sofa,1075
+Missouri,"Kansas City",Sofa,1075
+Ohio,Cincinnati,Sofa,1075
+Missouri,"Kansas City","Door Lock",1053
+Illinois,Chicago,"Door Lock",1053
+Illinois,Chicago,"Chest of Drawers",1050
+Missouri,"Kansas City","Tall Chair",1050
+Nevada,"Las Vegas",Armoire,1035
+Nevada,"Las Vegas",Safe,1035
+Missouri,"Kansas City",Armoire,1035
+Georgia,Atlanta,"Computer Desk",1020
+Texas,Dallas,"Office Chair",1020
+Virginia,Arlington,Television,1000
+Virginia,Arlington,"Bed (Double)",1000
+Virginia,Richmond,Television,1000
+"New York","New York",Television,1000
+Oregon,Portland,"Bed (Double)",1000
+Ohio,Cincinnati,Monitor,980
+Massachusetts,Boston,"Portable Drill",975
+Missouri,"Kansas City","Luggage Cart",966
+Oregon,Portland,"Luggage Cart",966
+"New York","New York",Ficus,960
+Massachusetts,Boston,"Coffee Maker",952
+Colorado,Denver,"Door Lock",936
+Ohio,Cincinnati,"Door Lock",936
+Missouri,"Kansas City","Office Chair",935
+Oregon,Portland,"Office Chair",935
+Louisiana,"New Orleans","Office Chair",935
+Ohio,Cincinnati,"Coffee Table",927
+Tennessee,Nashville,Safe,920
+Missouri,"Kansas City","Computer Desk",918
+Louisiana,"New Orleans","Reading Chair",910
+Virginia,Arlington,Monitor,910
+Illinois,Chicago,"Bed (King)",900
+Pennsylvania,Philadelphia,Ficus,880
+Arizona,Phoenix,Sofa,860
+Florida,Orlando,Mirror,850
+Virginia,Arlington,Mirror,850
+Missouri,"Kansas City",Mirror,850
+Georgia,Atlanta,Terminal,850
+Arizona,Phoenix,"Reading Chair",840
+Massachusetts,Boston,"Luggage Cart",828
+Georgia,Atlanta,"Tall Chair",825
+Colorado,Denver,"Swivel Chair",825
+Missouri,"Kansas City","Coffee Table",824
+Washington,Seattle,"Coffee Table",824
+Florida,Orlando,Armoire,805
+Tennessee,Nashville,Ladder,801
+Virginia,Richmond,Ladder,801
+Pennsylvania,Philadelphia,Ladder,801
+Oregon,Portland,Ladder,801
+Florida,Orlando,Ladder,801
+Pennsylvania,Philadelphia,"Low Chair",800
+Virginia,Arlington,"Low Chair",800
+California,"Los Angeles",Television,800
+Washington,Seattle,Television,800
+Nevada,"Las Vegas",Television,800
+Colorado,Denver,"Portable Drill",780
+Ohio,Cincinnati,"Portable Drill",780
+Nevada,"Las Vegas","Portable Drill",780
+Arizona,Phoenix,"Floor Lamp",770
+Virginia,Richmond,"Reading Chair",770
+California,"Los Angeles",Monitor,770
+Arizona,Phoenix,Mirror,765
+Texas,Dallas,Mirror,765
+Virginia,Richmond,Mirror,765
+Virginia,Richmond,Painting,765
+Tennessee,Nashville,"Office Chair",765
+Tennessee,Nashville,"Bed (Double)",750
+California,"Los Angeles","Swivel Chair",750
+Ohio,Cincinnati,"Bed (Double)",750
+"New York","New York","Bed (Double)",750
+Pennsylvania,Philadelphia,"Coffee Table",721
+Colorado,Denver,"Low Chair",720
+Georgia,Atlanta,"Low Chair",720
+Florida,Orlando,"Business Cards",720
+Colorado,Denver,"Coffee Maker",714
+Nevada,"Las Vegas","Computer Desk",714
+California,"Los Angeles","Coffee Maker",714
+Pennsylvania,Philadelphia,"Door Lock",702
+Ohio,Cincinnati,"Printer Paper",700
+Louisiana,"New Orleans","Wireless Router",700
+Massachusetts,Boston,"Reading Chair",700
+Virginia,Richmond,Monitor,700
+Pennsylvania,Philadelphia,Armoire,690
+Washington,Seattle,Armoire,690
+California,"San Francisco",Armoire,690
+Texas,Dallas,"Luggage Cart",690
+Virginia,Arlington,"Luggage Cart",690
+Washington,Seattle,Safe,690
+Illinois,Chicago,"Luggage Cart",690
+California,"Los Angeles","Luggage Cart",690
+Nevada,"Las Vegas","Office Chair",680
+Tennessee,Nashville,"Printer Toner",680
+Louisiana,"New Orleans",Terminal,680
+California,"San Francisco",Mirror,680
+Washington,Seattle,"Printer Toner",680
+"New York","New York",Terminal,680
+Nevada,"Las Vegas",Terminal,680
+Missouri,"Kansas City",Terminal,680
+Arizona,Phoenix,Terminal,680
+California,"Los Angeles",Mirror,680
+Massachusetts,Boston,Mirror,680
+"New York","New York","Tall Chair",675
+Colorado,Denver,"Tall Chair",675
+Tennessee,Nashville,"Floor Lamp",660
+California,"San Francisco","Bar Stool",660
+Washington,Seattle,Sofa,645
+Missouri,"Kansas City",Ficus,640
+Washington,Seattle,"Reading Chair",630
+Illinois,Chicago,Ladder,623
+California,"Los Angeles","Coffee Table",618
+Massachusetts,Boston,"Coffee Table",618
+Texas,Dallas,"Coffee Table",618
+Oregon,Portland,"Computer Desk",612
+Virginia,Arlington,"Leaf Blower",606
+Florida,Orlando,"Leaf Blower",606
+Florida,Orlando,"Floor Lamp",605
+Oregon,Portland,"Floor Lamp",605
+California,"Los Angeles","Bar Stool",600
+Louisiana,"New Orleans","Bed (King)",600
+Florida,Orlando,"Swivel Chair",600
+Ohio,Cincinnati,Television,600
+Arizona,Phoenix,"Business Cards",600
+Nevada,"Las Vegas","Chest of Drawers",600
+Oregon,Portland,"Tall Chair",600
+"New York","New York","Chest of Drawers",600
+Tennessee,Nashville,Television,600
+California,"Los Angeles","Bed (King)",600
+Arizona,Phoenix,Television,600
+Nevada,"Las Vegas","Bed (King)",600
+Massachusetts,Boston,Television,600
+Oregon,Portland,"Printer Toner",595
+Virginia,Richmond,"Printer Toner",595
+Ohio,Cincinnati,Terminal,595
+Tennessee,Nashville,"Coffee Maker",595
+Pennsylvania,Philadelphia,Terminal,595
+Missouri,"Kansas City","Coffee Maker",595
+California,"San Francisco","Coffee Maker",595
+California,"San Francisco","Office Chair",595
+Massachusetts,Boston,Terminal,595
+Illinois,Chicago,"Coffee Maker",595
+Virginia,Richmond,"Door Lock",585
+Georgia,Atlanta,"Portable Drill",585
+Arizona,Phoenix,"Door Lock",585
+California,"San Francisco",Safe,575
+Colorado,Denver,Safe,575
+Tennessee,Nashville,Armoire,575
+Louisiana,"New Orleans",Safe,575
+Louisiana,"New Orleans",Armoire,575
+"New York","New York",Conditioner,560
+Massachusetts,Boston,Monitor,560
+California,"San Francisco","Wireless Router",560
+California,"Los Angeles","Side Table",560
+Illinois,Chicago,"Large Plant",560
+Ohio,Cincinnati,"Large Plant",560
+Illinois,Chicago,Ficus,560
+Nevada,"Las Vegas","Reading Chair",560
+Illinois,Chicago,"Wireless Router",560
+Virginia,Richmond,"Side Table",560
+Missouri,"Kansas City","Low Chair",560
+"New York","New York","Wireless Router",560
+Colorado,Denver,"Luggage Cart",552
+Georgia,Atlanta,"Luggage Cart",552
+Arizona,Phoenix,"Printer Paper",550
+Louisiana,"New Orleans","Printer Paper",550
+Texas,Dallas,"Floor Lamp",550
+Oregon,Portland,"Business Cards",540
+Washington,Seattle,Ladder,534
+California,"Los Angeles",Ladder,534
+Ohio,Cincinnati,"Door Knob",533
+California,"Los Angeles","Tall Chair",525
+Oregon,Portland,"Swivel Chair",525
+Massachusetts,Boston,"Swivel Chair",525
+Illinois,Chicago,"Tall Chair",525
+Louisiana,"New Orleans","Swivel Chair",525
+Missouri,"Kansas City",Moisturizer,520
+California,"Los Angeles","Large Area Rug",520
+Washington,Seattle,Mouthwash,520
+Oregon,Portland,"Coffee Table",515
+Texas,Dallas,"Computer Desk",510
+Washington,Seattle,Terminal,510
+Colorado,Denver,"Computer Desk",510
+Ohio,Cincinnati,"Computer Desk",510
+Louisiana,"New Orleans",Mirror,510
+California,"Los Angeles",Painting,510
+Florida,Orlando,"Computer Desk",510
+"New York","New York","Computer Desk",510
+Washington,Seattle,"Computer Desk",510
+Georgia,Atlanta,Painting,510
+California,"Los Angeles","Printer Toner",510
+Colorado,Denver,Mirror,510
+Ohio,Cincinnati,"Printer Toner",510
+California,"San Francisco","Floor Lamp",495
+Louisiana,"New Orleans",Photograph,495
+Florida,Orlando,"Table Lamp",494
+Nevada,"Las Vegas","Wireless Router",490
+Missouri,"Kansas City","Wireless Router",490
+Colorado,Denver,"Wireless Router",490
+Georgia,Atlanta,Ficus,480
+Massachusetts,Boston,Ficus,480
+California,"Los Angeles",Shampoo,480
+"New York","New York","Low Chair",480
+Colorado,Denver,Conditioner,480
+Oregon,Portland,"Bar Stool",480
+Virginia,Richmond,Ficus,480
+Nevada,"Las Vegas","Low Chair",480
+Ohio,Cincinnati,Ficus,480
+California,"Los Angeles","Business Cards",480
+Ohio,Cincinnati,"Bar Stool",480
+Illinois,Chicago,"Low Chair",480
+Tennessee,Nashville,Ficus,480
+Virginia,Arlington,"Bar Stool",480
+"New York","New York","Coffee Maker",476
+Louisiana,"New Orleans","Door Lock",468
+Florida,Orlando,Safe,460
+Georgia,Atlanta,Safe,460
+Missouri,"Kansas City",Safe,460
+"New York","New York","Hand Soap",455
+Illinois,Chicago,"Door Knob",451
+Tennessee,Nashville,"Door Knob",451
+Massachusetts,Boston,"Door Knob",451
+Pennsylvania,Philadelphia,"Swivel Chair",450
+Texas,Dallas,"Chest of Drawers",450
+Virginia,Arlington,"Tall Chair",450
+Georgia,Atlanta,"Swivel Chair",450
+California,"San Francisco","Tall Chair",450
+"New York","New York","Swivel Chair",450
+Colorado,Denver,"Chest of Drawers",450
+Virginia,Richmond,"Printer Paper",450
+Tennessee,Nashville,"Tall Chair",450
+Massachusetts,Boston,"Chest of Drawers",450
+Texas,Dallas,"Printer Paper",450
+Ohio,Cincinnati,"Tall Chair",450
+Ohio,Cincinnati,"Chest of Drawers",450
+Ohio,Cincinnati,"Envelopes (Legal)",448
+Massachusetts,Boston,Ladder,445
+Georgia,Atlanta,Ladder,445
+Arizona,Phoenix,Ladder,445
+California,"Los Angeles",Conditioner,440
+Massachusetts,Boston,"Floor Lamp",440
+Ohio,Cincinnati,Shampoo,440
+Arizona,Phoenix,Moisturizer,440
+Georgia,Atlanta,"Large Area Rug",440
+Illinois,Chicago,Mouthwash,440
+Texas,Dallas,Moisturizer,440
+Georgia,Atlanta,Shampoo,440
+Colorado,Denver,"Floor Lamp",440
+Arizona,Phoenix,Conditioner,440
+"New York","New York",Shampoo,440
+Missouri,"Kansas City","Bed Sheet (King)",435
+Nevada,"Las Vegas",Sofa,430
+"New York","New York",Sofa,430
+California,"Los Angeles","Office Chair",425
+California,"Los Angeles",Terminal,425
+"New York","New York","Printer Toner",425
+Nevada,"Las Vegas","Printer Toner",425
+California,"San Francisco","Printer Toner",425
+Pennsylvania,Philadelphia,"Wireless Router",420
+Louisiana,"New Orleans",Monitor,420
+California,"San Francisco","Reading Chair",420
+Virginia,Richmond,"Bar Stool",420
+Georgia,Atlanta,"Business Cards",420
+Nevada,"Las Vegas","Business Cards",420
+Colorado,Denver,Monitor,420
+Texas,Dallas,"Bar Stool",420
+"New York","New York","Bar Stool",420
+Oregon,Portland,Telephone,418
+Texas,Dallas,Telephone,418
+Nevada,"Las Vegas","Luggage Cart",414
+Washington,Seattle,"Luggage Cart",414
+Nevada,"Las Vegas","Coffee Table",412
+Virginia,Arlington,"Coffee Table",412
+Missouri,"Kansas City","Door Knob",410
+Virginia,Richmond,"Computer Desk",408
+Oregon,Portland,"Alarm Clock",405
+Georgia,Atlanta,"Large Vase",405
+Nevada,"Las Vegas",Photograph,405
+Virginia,Richmond,"Alarm Clock",405
+Arizona,Phoenix,"Leaf Blower",404
+California,"Los Angeles","Leaf Blower",404
+Georgia,Atlanta,"Leaf Blower",404
+Louisiana,"New Orleans",Television,400
+Pennsylvania,Philadelphia,Moisturizer,400
+Tennessee,Nashville,Moisturizer,400
+Pennsylvania,Philadelphia,Conditioner,400
+Washington,Seattle,Conditioner,400
+Tennessee,Nashville,Shampoo,400
+"New York","New York","Portable Drill",390
+Washington,Seattle,"Bath Soap",385
+Louisiana,"New Orleans","Bath Soap",385
+Illinois,Chicago,Telephone,380
+Washington,Seattle,Telephone,380
+Texas,Dallas,"Bed Sheet (King)",377
+Tennessee,Nashville,"Swivel Chair",375
+Washington,Seattle,"Swivel Chair",375
+Virginia,Richmond,"Swivel Chair",375
+Nevada,"Las Vegas","Swivel Chair",375
+Virginia,Arlington,"Swivel Chair",375
+Arizona,Phoenix,"Swivel Chair",375
+Louisiana,"New Orleans","Small Vase",363
+Ohio,Cincinnati,Moisturizer,360
+"New York","New York","End Table",360
+Nevada,"Las Vegas",Mouthwash,360
+Pennsylvania,Philadelphia,"Window Screen",360
+California,"San Francisco","End Table",360
+Virginia,Richmond,Mouthwash,360
+Nevada,"Las Vegas",Shampoo,360
+Virginia,Richmond,Moisturizer,360
+Virginia,Arlington,"Window Screen",360
+Virginia,Arlington,"Side Table",360
+Massachusetts,Boston,"Business Cards",360
+Washington,Seattle,"Side Table",360
+Arizona,Phoenix,Mouthwash,360
+Louisiana,"New Orleans","Bar Stool",360
+Illinois,Chicago,"Side Table",360
+"New York","New York","Side Table",360
+Texas,Dallas,"Business Cards",360
+Tennessee,Nashville,"Coffee Cup",360
+Arizona,Phoenix,"Coffee Maker",357
+Louisiana,"New Orleans","Coffee Maker",357
+Oregon,Portland,"Coffee Maker",357
+Georgia,Atlanta,"Coffee Maker",357
+California,"San Francisco",Ladder,356
+Washington,Seattle,"Door Lock",351
+Virginia,Richmond,"Large Vase",351
+"New York","New York","Door Lock",351
+Florida,Orlando,Monitor,350
+California,"San Francisco","Large Plant",350
+Georgia,Atlanta,"Hand Soap",350
+Oregon,Portland,"Reading Chair",350
+California,"San Francisco",Monitor,350
+Georgia,Atlanta,"Tissue Box",350
+Virginia,Arlington,"Wireless Router",350
+Virginia,Arlington,"Reading Chair",350
+Pennsylvania,Philadelphia,"Reading Chair",350
+Missouri,"Kansas City",Monitor,350
+Virginia,Arlington,"Bed Sheet (King)",348
+Illinois,Chicago,Armoire,345
+Oregon,Portland,Armoire,345
+Texas,Dallas,Safe,345
+Arizona,Phoenix,Armoire,345
+Arizona,Phoenix,Safe,345
+Massachusetts,Boston,Armoire,345
+Illinois,Chicago,Safe,345
+Pennsylvania,Philadelphia,Safe,345
+Ohio,Cincinnati,Armoire,345
+Virginia,Richmond,Armoire,345
+Virginia,Richmond,Telephone,342
+Pennsylvania,Philadelphia,Painting,340
+Georgia,Atlanta,"Office Chair",340
+Florida,Orlando,Painting,340
+Arizona,Phoenix,"Printer Toner",340
+Washington,Seattle,"Office Chair",340
+Massachusetts,Boston,Painting,340
+Colorado,Denver,Painting,340
+"New York","New York",Mirror,340
+Louisiana,"New Orleans","Printer Toner",340
+Illinois,Chicago,"Office Chair",340
+California,"San Francisco",Painting,340
+Texas,Dallas,Terminal,340
+Nevada,"Las Vegas",Painting,340
+Georgia,Atlanta,"Printer Toner",340
+Virginia,Arlington,"Coffee Cup",336
+Louisiana,"New Orleans","Floor Lamp",330
+Washington,Seattle,"Floor Lamp",330
+Virginia,Arlington,"Floor Lamp",330
+Illinois,Chicago,"Small Vase",330
+Massachusetts,Boston,"End Table",330
+California,"Los Angeles","Door Knob",328
+Nevada,"Las Vegas","Gaffer's Tape",324
+Oregon,Portland,"Large Vase",324
+Illinois,Chicago,"Gaffer's Tape",324
+Georgia,Atlanta,Mouthwash,320
+Texas,Dallas,Conditioner,320
+Pennsylvania,Philadelphia,Mouthwash,320
+Missouri,"Kansas City",Shampoo,320
+California,"San Francisco","Low Chair",320
+Florida,Orlando,"Side Table",320
+Pennsylvania,Philadelphia,"Side Table",320
+Nevada,"Las Vegas",Ficus,320
+Oregon,Portland,"Low Chair",320
+Nevada,"Las Vegas","Large Area Rug",320
+Oregon,Portland,Moisturizer,320
+Illinois,Chicago,Conditioner,320
+Oregon,Portland,"Bed Sheet (King)",319
+Washington,Seattle,"Bed Sheet (King)",319
+Louisiana,"New Orleans","Bed Sheet (King)",319
+Louisiana,"New Orleans","Hand Soap",315
+Ohio,Cincinnati,"Alarm Clock",315
+Washington,Seattle,"Alarm Clock",315
+Nevada,"Las Vegas","Large Plant",315
+Texas,Dallas,Photograph,315
+Ohio,Cincinnati,"Hand Soap",315
+Illinois,Chicago,"Alarm Clock",315
+Oregon,Portland,"Bath Soap",315
+Virginia,Richmond,"Large Plant",315
+Nevada,"Las Vegas","Coffee Cup",312
+Colorado,Denver,"Coffee Table",309
+Louisiana,"New Orleans","Coffee Table",309
+"New York","New York","Coffee Table",309
+Illinois,Chicago,"Coffee Table",309
+Tennessee,Nashville,"Coffee Table",309
+Illinois,Chicago,"Computer Desk",306
+Massachusetts,Boston,"Computer Desk",306
+Louisiana,"New Orleans","Computer Desk",306
+California,"Los Angeles","Computer Desk",306
+Colorado,Denver,Telephone,304
+Louisiana,"New Orleans","Table Lamp",304
+California,"San Francisco","Printer Paper",300
+Illinois,Chicago,"Bed Sheet (Double)",300
+Florida,Orlando,"Tissue Box",300
+Virginia,Arlington,"End Table",300
+California,"San Francisco","Business Cards",300
+Florida,Orlando,"Small Area Rug",300
+Colorado,Denver,"Printer Paper",300
+Florida,Orlando,"End Table",300
+Pennsylvania,Philadelphia,"Printer Paper",300
+Missouri,"Kansas City","Printer Paper",300
+Illinois,Chicago,"Business Cards",300
+Tennessee,Nashville,"Business Cards",300
+Colorado,Denver,"Window Screen",300
+Pennsylvania,Philadelphia,"Chest of Drawers",300
+Virginia,Richmond,"Chest of Drawers",300
+Missouri,"Kansas City","Bar Stool",300
+Washington,Seattle,"Chest of Drawers",300
+Virginia,Richmond,"Gaffer's Tape",297
+Nevada,"Las Vegas","Small Vase",297
+Washington,Seattle,"Gaffer's Tape",297
+"New York","New York","Large Vase",297
+California,"Los Angeles","Gaffer's Tape",297
+Pennsylvania,Philadelphia,"Bed Sheet (King)",290
+Texas,Dallas,"Light Bulb",289
+Arizona,Phoenix,"Large Area Rug",280
+Virginia,Arlington,Moisturizer,280
+"New York","New York","Reading Chair",280
+Nevada,"Las Vegas",Monitor,280
+Virginia,Richmond,"Bath Soap",280
+Massachusetts,Boston,Moisturizer,280
+Massachusetts,Boston,Conditioner,280
+Pennsylvania,Philadelphia,Monitor,280
+Ohio,Cincinnati,"Bath Soap",280
+Virginia,Arlington,Mouthwash,280
+"New York","New York",Monitor,280
+Ohio,Cincinnati,"Wireless Router",280
+California,"San Francisco",Shampoo,280
+Pennsylvania,Philadelphia,"Large Area Rug",280
+Florida,Orlando,Shampoo,280
+Oregon,Portland,Monitor,280
+Texas,Dallas,Monitor,280
+Florida,Orlando,"Reading Chair",280
+Missouri,"Kansas City","Reading Chair",280
+Georgia,Atlanta,"Wireless Router",280
+Georgia,Atlanta,Monitor,280
+Virginia,Richmond,"Wireless Router",280
+Arizona,Phoenix,"Luggage Cart",276
+California,"San Francisco","Luggage Cart",276
+Virginia,Arlington,"Small Plant",275
+Missouri,"Kansas City","Floor Lamp",275
+Virginia,Richmond,"Floor Lamp",275
+Colorado,Denver,Pens,270
+Arizona,Phoenix,"Window Screen",270
+Missouri,"Kansas City","Alarm Clock",270
+Pennsylvania,Philadelphia,"Poster Stand",270
+Missouri,"Kansas City",Photograph,270
+Massachusetts,Boston,"Large Vase",270
+Nevada,"Las Vegas","Window Screen",270
+Nevada,"Las Vegas",Pens,270
+California,"San Francisco","Alarm Clock",270
+Tennessee,Nashville,"Duct Tape",270
+Virginia,Arlington,Pens,270
+Georgia,Atlanta,Photograph,270
+Florida,Orlando,"Window Screen",270
+Texas,Dallas,"Poster Stand",270
+Illinois,Chicago,Photograph,270
+"New York","New York",Telephone,266
+California,"Los Angeles","Table Lamp",266
+Nevada,"Las Vegas","Table Lamp",266
+California,"San Francisco","Table Lamp",266
+Ohio,Cincinnati,"Envelopes (Letter)",264
+"New York","New York","Coffee Cup",264
+Washington,Seattle,"Small Vase",264
+Colorado,Denver,"Envelopes (Letter)",264
+Texas,Dallas,"Drinking Glass",264
+"New York","New York","Bed Sheet (King)",261
+Colorado,Denver,"Small Area Rug",260
+Virginia,Arlington,"Small Area Rug",260
+Virginia,Richmond,"Bed Sheet (Double)",260
+Colorado,Denver,Terminal,255
+Pennsylvania,Philadelphia,"Printer Toner",255
+California,"San Francisco",Terminal,255
+Massachusetts,Boston,"Printer Toner",255
+Illinois,Chicago,Terminal,255
+Pennsylvania,Philadelphia,Mirror,255
+Virginia,Richmond,Terminal,255
+Florida,Orlando,"Office Chair",255
+Oregon,Portland,Terminal,255
+Texas,Dallas,"Printer Toner",255
+Illinois,Chicago,Painting,255
+Illinois,Chicago,Mirror,255
+Florida,Orlando,Terminal,255
+Washington,Seattle,Painting,255
+Oregon,Portland,Painting,255
+Florida,Orlando,"Printer Toner",255
+Colorado,Denver,"Printer Toner",255
+Nevada,"Las Vegas",Mirror,255
+Virginia,Arlington,Painting,255
+Virginia,Arlington,"Envelopes (Legal)",252
+Washington,Seattle,"Envelopes (Legal)",252
+Colorado,Denver,"Envelopes (Legal)",252
+Texas,Dallas,"Envelopes (Legal)",252
+Oregon,Portland,"Small Plant",250
+Texas,Dallas,"Small Plant",250
+Colorado,Denver,"Tissue Box",250
+Pennsylvania,Philadelphia,"Small Plant",250
+Oregon,Portland,"Printer Paper",250
+Pennsylvania,Philadelphia,"Bed (Double)",250
+Illinois,Chicago,"Printer Paper",250
+Pennsylvania,Philadelphia,"Toilet Paper",247
+Pennsylvania,Philadelphia,"Door Knob",246
+Georgia,Atlanta,"Large Plant",245
+Tennessee,Nashville,"Hand Soap",245
+California,"San Francisco","Poster Stand",243
+Ohio,Cincinnati,"Gaffer's Tape",243
+Florida,Orlando,"Duct Tape",243
+Colorado,Denver,"Large Vase",243
+Florida,Orlando,"Bar Stool",240
+Ohio,Cincinnati,"Side Table",240
+Virginia,Richmond,"Envelopes (Letter)",240
+"New York","New York",Moisturizer,240
+Louisiana,"New Orleans",Ficus,240
+Pennsylvania,Philadelphia,"Drinking Glass",240
+Pennsylvania,Philadelphia,"Bar Stool",240
+Arizona,Phoenix,Pens,240
+Washington,Seattle,"Business Cards",240
+Colorado,Denver,"Coffee Cup",240
+Ohio,Cincinnati,Pens,240
+Louisiana,"New Orleans","Window Screen",240
+Louisiana,"New Orleans","Large Area Rug",240
+Missouri,"Kansas City","Side Table",240
+Tennessee,Nashville,"Small Area Rug",240
+"New York","New York",Pens,240
+Ohio,Cincinnati,"Business Cards",240
+Louisiana,"New Orleans","Business Cards",240
+Virginia,Richmond,"Large Area Rug",240
+Tennessee,Nashville,"Window Screen",240
+Florida,Orlando,"Low Chair",240
+Oregon,Portland,Mouthwash,240
+Colorado,Denver,Ficus,240
+Massachusetts,Boston,"Low Chair",240
+Missouri,"Kansas City","Drinking Glass",240
+Colorado,Denver,Moisturizer,240
+Illinois,Chicago,Shampoo,240
+Ohio,Cincinnati,"Low Chair",240
+Washington,Seattle,"Bar Stool",240
+California,"Los Angeles",Mouthwash,240
+Virginia,Arlington,Ficus,240
+Texas,Dallas,Ficus,240
+Tennessee,Nashville,Screws,238
+Ohio,Cincinnati,"Coffee Maker",238
+Texas,Dallas,"Coffee Maker",238
+Washington,Seattle,"Coffee Maker",238
+Pennsylvania,Philadelphia,"Coffee Maker",238
+Florida,Orlando,"Coffee Maker",238
+California,"San Francisco","Door Lock",234
+Texas,Dallas,"Door Lock",234
+Tennessee,Nashville,"Small Vase",231
+Washington,Seattle,"Wood Glue",231
+Virginia,Richmond,"Small Vase",231
+Florida,Orlando,"Small Vase",231
+Florida,Orlando,"Wood Glue",231
+Texas,Dallas,Armoire,230
+California,"Los Angeles",Armoire,230
+"New York","New York",Armoire,230
+"New York","New York",Safe,230
+California,"Los Angeles",Telephone,228
+"New York","New York","Table Lamp",228
+Georgia,Atlanta,Telephone,228
+Nevada,"Las Vegas",Telephone,228
+Washington,Seattle,"Table Lamp",228
+Colorado,Denver,"Table Lamp",228
+Florida,Orlando,"Tall Chair",225
+Texas,Dallas,"Tall Chair",225
+Oregon,Portland,Photograph,225
+California,"San Francisco","Swivel Chair",225
+Washington,Seattle,Photograph,225
+Virginia,Richmond,"Tall Chair",225
+Florida,Orlando,"Alarm Clock",225
+California,"Los Angeles","Small Plant",225
+Washington,Seattle,"Tall Chair",225
+Missouri,"Kansas City","Swivel Chair",225
+California,"Los Angeles",Photograph,225
+Illinois,Chicago,"Swivel Chair",225
+Massachusetts,Boston,Iron,220
+"New York","New York","Sticky Notes",220
+Louisiana,"New Orleans","Small Area Rug",220
+Texas,Dallas,Iron,220
+Missouri,"Kansas City","Bed Sheet (Double)",220
+Ohio,Cincinnati,"Large Sign",220
+California,"Los Angeles","Drinking Glass",216
+Missouri,"Kansas City","Large Vase",216
+Massachusetts,Boston,"Drinking Glass",216
+California,"San Francisco","Coffee Cup",216
+"New York","New York","Drinking Glass",216
+Illinois,Chicago,"Duct Tape",216
+Ohio,Cincinnati,"Large Vase",216
+Washington,Seattle,"Envelopes (Letter)",216
+Virginia,Richmond,"Coffee Cup",216
+Virginia,Richmond,Sofa,215
+California,"Los Angeles","Reading Chair",210
+California,"San Francisco",Pens,210
+Texas,Dallas,"Hand Soap",210
+Illinois,Chicago,"Window Screen",210
+Pennsylvania,Philadelphia,"Bath Soap",210
+Colorado,Denver,"Bath Soap",210
+Massachusetts,Boston,Pens,210
+Georgia,Atlanta,"Reading Chair",210
+Tennessee,Nashville,Monitor,210
+Oregon,Portland,"Wireless Router",210
+Louisiana,"New Orleans","End Table",210
+Texas,Dallas,Pens,210
+Ohio,Cincinnati,"Reading Chair",210
+Washington,Seattle,"End Table",210
+Texas,Dallas,"Window Screen",210
+Illinois,Chicago,"Reading Chair",210
+Massachusetts,Boston,"Wireless Router",210
+California,"San Francisco","Hand Soap",210
+Illinois,Chicago,Monitor,210
+Washington,Seattle,"Wireless Router",210
+Louisiana,"New Orleans","Large Plant",210
+Massachusetts,Boston,"Bath Soap",210
+Illinois,Chicago,"Bath Soap",210
+Texas,Dallas,"Reading Chair",210
+Missouri,"Kansas City","Large Plant",210
+Georgia,Atlanta,"Coffee Table",206
+Florida,Orlando,"Coffee Table",206
+Virginia,Richmond,"Coffee Table",206
+Oregon,Portland,"Door Knob",205
+Pennsylvania,Philadelphia,"Light Bulb",204
+Arizona,Phoenix,"Computer Desk",204
+Nevada,"Las Vegas","Bed Sheet (King)",203
+Tennessee,Nashville,Mouthwash,200
+California,"San Francisco",Conditioner,200
+Washington,Seattle,Shampoo,200
+Texas,Dallas,"Bed Sheet (Double)",200
+Virginia,Richmond,Conditioner,200
+Pennsylvania,Philadelphia,Shampoo,200
+Missouri,"Kansas City",Iron,200
+Illinois,Chicago,"Large Sign",200
+Pennsylvania,Philadelphia,"Tissue Box",200
+Louisiana,"New Orleans",Conditioner,200
+Ohio,Cincinnati,Conditioner,200
+Illinois,Chicago,"Large Area Rug",200
+Louisiana,"New Orleans",Moisturizer,200
+Washington,Seattle,"Printer Paper",200
+Florida,Orlando,Television,200
+Virginia,Richmond,Shampoo,200
+Oregon,Portland,Television,200
+Arizona,Phoenix,Shampoo,200
+"New York","New York",Mouthwash,200
+Illinois,Chicago,Moisturizer,200
+Texas,Dallas,"Ironing Board",198
+Arizona,Phoenix,"Small Vase",198
+Missouri,"Kansas City","Small Vase",198
+Georgia,Atlanta,"Envelopes (Legal)",196
+Illinois,Chicago,"Note Pads",196
+Virginia,Richmond,"Envelopes (Legal)",196
+Florida,Orlando,"Portable Drill",195
+Texas,Dallas,"Envelopes (Letter)",192
+Virginia,Arlington,"Drinking Glass",192
+Nevada,"Las Vegas","Toilet Paper",190
+Georgia,Atlanta,"Table Lamp",190
+Arizona,Phoenix,"Table Lamp",190
+Tennessee,Nashville,"Table Lamp",190
+Florida,Orlando,Telephone,190
+Texas,Dallas,"Duct Tape",189
+Nevada,"Las Vegas","Poster Stand",189
+Georgia,Atlanta,"Poster Stand",189
+California,"Los Angeles","Large Vase",189
+Nevada,"Las Vegas","Large Vase",189
+Florida,Orlando,Tissues,182
+Louisiana,"New Orleans",Tissues,182
+Virginia,Richmond,Photograph,180
+Colorado,Denver,"Alarm Clock",180
+Nevada,"Las Vegas","Small Area Rug",180
+Colorado,Denver,"Business Cards",180
+"New York","New York",Iron,180
+Massachusetts,Boston,Pillowcase,180
+Virginia,Richmond,"End Table",180
+Nevada,"Las Vegas","End Table",180
+Missouri,"Kansas City","Small Area Rug",180
+Colorado,Denver,"Bar Stool",180
+Washington,Seattle,"Sticky Notes",180
+Georgia,Atlanta,"Bar Stool",180
+Washington,Seattle,"Ironing Board",180
+Ohio,Cincinnati,Iron,180
+Ohio,Cincinnati,"Window Screen",180
+Tennessee,Nashville,"Alarm Clock",180
+Texas,Dallas,"Alarm Clock",180
+Colorado,Denver,Photograph,180
+Massachusetts,Boston,Photograph,180
+Georgia,Atlanta,"End Table",180
+Ohio,Cincinnati,Photograph,180
+Georgia,Atlanta,"Alarm Clock",180
+Illinois,Chicago,"End Table",180
+Missouri,"Kansas City","Business Cards",180
+Arizona,Phoenix,Photograph,180
+Virginia,Arlington,"Large Sign",180
+Nevada,"Las Vegas","Bar Stool",180
+Texas,Dallas,"End Table",180
+Pennsylvania,Philadelphia,"Alarm Clock",180
+Virginia,Arlington,"Business Cards",180
+Virginia,Arlington,Ladder,178
+Colorado,Denver,Ladder,178
+Missouri,"Kansas City",Ladder,178
+"New York","New York",Ladder,178
+Oregon,Portland,"Large Plant",175
+California,"San Francisco","Small Plant",175
+Florida,Orlando,"Hand Soap",175
+Virginia,Richmond,"Tissue Box",175
+Louisiana,"New Orleans","Small Plant",175
+Colorado,Denver,"Hand Soap",175
+Georgia,Atlanta,"Small Plant",175
+Arizona,Phoenix,"Hand Soap",175
+Pennsylvania,Philadelphia,"Large Plant",175
+Massachusetts,Boston,"Hand Soap",175
+"New York","New York","Tissue Box",175
+Missouri,"Kansas City","Bath Soap",175
+Pennsylvania,Philadelphia,"Hand Soap",175
+Nevada,"Las Vegas","Hand Soap",175
+Florida,Orlando,"Bed Sheet (King)",174
+California,"Los Angeles","Bed Sheet (King)",174
+Oregon,Portland,"Toilet Paper",171
+Virginia,Arlington,Terminal,170
+Louisiana,"New Orleans",Hammer,170
+Virginia,Richmond,"Office Chair",170
+Ohio,Cincinnati,"Office Chair",170
+Pennsylvania,Philadelphia,"Office Chair",170
+Georgia,Atlanta,Mirror,170
+Missouri,"Kansas City","Envelopes (Letter)",168
+Illinois,Chicago,"Drinking Glass",168
+Virginia,Richmond,"Small Sign",168
+Oregon,Portland,"Envelopes (Letter)",168
+California,"Los Angeles","Envelopes (Legal)",168
+Ohio,Cincinnati,"Floor Lamp",165
+Nevada,"Las Vegas","Floor Lamp",165
+"New York","New York","Gaffer's Tape",162
+Ohio,Cincinnati,"Ironing Board",162
+Tennessee,Nashville,"Gaffer's Tape",162
+California,"Los Angeles","Duct Tape",162
+Virginia,Arlington,"Ironing Board",162
+Pennsylvania,Philadelphia,"Ironing Board",162
+"New York","New York","Duct Tape",162
+Oregon,Portland,"Ironing Board",162
+Massachusetts,Boston,"Duct Tape",162
+Colorado,Denver,"Duct Tape",162
+Massachusetts,Boston,"Poster Stand",162
+Louisiana,"New Orleans","Poster Stand",162
+Washington,Seattle,"Large Vase",162
+Virginia,Arlington,"Poster Stand",162
+Louisiana,"New Orleans","Large Vase",162
+Massachusetts,Boston,"Gaffer's Tape",162
+Colorado,Denver,Mouthwash,160
+Pennsylvania,Philadelphia,"Bed Sheet (Double)",160
+Pennsylvania,Philadelphia,"Large Sign",160
+Nevada,"Las Vegas","Sticky Notes",160
+California,"San Francisco","Small Area Rug",160
+Georgia,Atlanta,"Side Table",160
+Massachusetts,Boston,"Side Table",160
+Texas,Dallas,"Large Area Rug",160
+Pennsylvania,Philadelphia,"Sticky Notes",160
+California,"Los Angeles","Bed Sheet (Double)",160
+Ohio,Cincinnati,"Sticky Notes",160
+Florida,Orlando,"Bed Sheet (Double)",160
+Nevada,"Las Vegas",Moisturizer,160
+Virginia,Arlington,"Sticky Notes",160
+Texas,Dallas,"Small Area Rug",160
+Nevada,"Las Vegas","Bed Sheet (Double)",160
+Tennessee,Nashville,"Large Area Rug",160
+Georgia,Atlanta,Conditioner,160
+Texas,Dallas,Mouthwash,160
+Arizona,Phoenix,Ficus,160
+Oregon,Portland,Shampoo,160
+Washington,Seattle,"Low Chair",160
+Virginia,Richmond,"Low Chair",160
+Louisiana,"New Orleans","Low Chair",160
+Pennsylvania,Philadelphia,Nails,156
+Massachusetts,Boston,"Note Pads",154
+Colorado,Denver,"Light Bulb",153
+Arizona,Phoenix,Hammer,153
+Georgia,Atlanta,Hammer,153
+Virginia,Arlington,"Light Bulb",153
+Louisiana,"New Orleans","Toilet Paper",152
+Louisiana,"New Orleans",Telephone,152
+Georgia,Atlanta,"Toilet Paper",152
+Pennsylvania,Philadelphia,Telephone,152
+Texas,Dallas,"Table Lamp",152
+California,"San Francisco",Telephone,152
+Tennessee,Nashville,Telephone,152
+Missouri,"Kansas City",Mop,150
+Missouri,"Kansas City","End Table",150
+Louisiana,"New Orleans","Tall Chair",150
+Arizona,Phoenix,Mop,150
+Tennessee,Nashville,Pens,150
+Washington,Seattle,"Small Plant",150
+Arizona,Phoenix,"Small Plant",150
+Texas,Dallas,"Swivel Chair",150
+Florida,Orlando,"Small Plant",150
+Colorado,Denver,Pillowcase,150
+Tennessee,Nashville,"End Table",150
+California,"Los Angeles","Window Screen",150
+Nevada,"Las Vegas","Printer Paper",150
+Virginia,Arlington,"Printer Paper",150
+Arizona,Phoenix,"Tissue Box",150
+Washington,Seattle,"Tissue Box",150
+Massachusetts,Boston,"Printer Paper",150
+Illinois,Chicago,Pens,150
+Oregon,Portland,Pens,150
+Georgia,Atlanta,"Window Screen",150
+Ohio,Cincinnati,"Swivel Chair",150
+Illinois,Chicago,"Small Plant",150
+Missouri,"Kansas City",Pens,150
+Louisiana,"New Orleans","Wood Glue",147
+California,"Los Angeles","Wood Glue",147
+Massachusetts,Boston,"Bed Sheet (King)",145
+Illinois,Chicago,"Bed Sheet (King)",145
+California,"San Francisco","Bed Sheet (King)",145
+Illinois,Chicago,"Clothes Hanger",144
+Florida,Orlando,"Drinking Glass",144
+California,"San Francisco","Envelopes (Letter)",144
+California,"Los Angeles","Ironing Board",144
+Pennsylvania,Philadelphia,"Clothes Hanger",144
+Louisiana,"New Orleans","Envelopes (Letter)",144
+Missouri,"Kansas City","Coffee Cup",144
+Ohio,Cincinnati,"Envelopes (Catalog)",143
+Ohio,Cincinnati,Screws,140
+Georgia,Atlanta,"Adjustable Wrench",140
+Oregon,Portland,"Large Sign",140
+Massachusetts,Boston,"Sticky Notes",140
+Virginia,Arlington,"Small Sign",140
+Illinois,Chicago,Screws,140
+Pennsylvania,Philadelphia,Iron,140
+Pennsylvania,Philadelphia,"Small Area Rug",140
+Colorado,Denver,"Reading Chair",140
+Oregon,Portland,"Sticky Notes",140
+Tennessee,Nashville,Tissues,140
+Arizona,Phoenix,"Large Plant",140
+Oregon,Portland,"Hand Soap",140
+Oregon,Portland,"Envelopes (Legal)",140
+Virginia,Arlington,Iron,140
+Tennessee,Nashville,"Sticky Notes",140
+California,"Los Angeles","Bath Soap",140
+Tennessee,Nashville,"Wireless Router",140
+Texas,Dallas,Screws,140
+Virginia,Arlington,"Bath Soap",140
+"New York","New York","Envelopes (Legal)",140
+Tennessee,Nashville,"Luggage Cart",138
+Virginia,Arlington,Hammer,136
+Washington,Seattle,"Invisible Tape",136
+California,"San Francisco","Light Bulb",136
+Massachusetts,Boston,Hammer,136
+Colorado,Denver,Hammer,136
+Ohio,Cincinnati,"Duct Tape",135
+"New York","New York",Pillowcase,135
+Virginia,Arlington,"Duct Tape",135
+Massachusetts,Boston,"Large Towel",135
+Virginia,Richmond,"Duct Tape",135
+Massachusetts,Boston,"Alarm Clock",135
+California,"San Francisco","Large Vase",135
+Florida,Orlando,Photograph,135
+Pennsylvania,Philadelphia,Pillowcase,135
+Arizona,Phoenix,"Alarm Clock",135
+Nevada,"Las Vegas","Duct Tape",135
+"New York","New York","Alarm Clock",135
+Colorado,Denver,"Small Vase",132
+Ohio,Cincinnati,"Small Vase",132
+Florida,Orlando,Nails,132
+Illinois,Chicago,"Towel Rack",130
+Illinois,Chicago,"Wood Glue",126
+Ohio,Cincinnati,Tissues,126
+Virginia,Arlington,"Clothes Hanger",126
+Pennsylvania,Philadelphia,"Note Pads",126
+Nevada,"Las Vegas","Clothes Hanger",126
+Nevada,"Las Vegas","Ironing Board",126
+"New York","New York","Wood Glue",126
+Massachusetts,Boston,"Wood Glue",126
+Missouri,"Kansas City","Tissue Box",125
+Nevada,"Las Vegas","Small Plant",125
+Tennessee,Nashville,"Small Plant",125
+Massachusetts,Boston,"Tissue Box",125
+Louisiana,"New Orleans","Tissue Box",125
+Virginia,Arlington,"Tissue Box",125
+California,"San Francisco","Door Knob",123
+Virginia,Arlington,"Door Knob",123
+California,"San Francisco",Iron,120
+Nevada,"Las Vegas","Large Sign",120
+Arizona,Phoenix,"Shower Cap",120
+Colorado,Denver,"Large Sign",120
+Georgia,Atlanta,"Small Area Rug",120
+Florida,Orlando,"Envelopes (Letter)",120
+"New York","New York","Small Area Rug",120
+Arizona,Phoenix,"Side Table",120
+Illinois,Chicago,"Bar Stool",120
+Virginia,Richmond,"Large Sign",120
+Florida,Orlando,"Sticky Notes",120
+Louisiana,"New Orleans","Sticky Notes",120
+Virginia,Arlington,Conditioner,120
+Colorado,Denver,"Sticky Notes",120
+Massachusetts,Boston,"Large Sign",120
+Ohio,Cincinnati,"Coffee Cup",120
+Tennessee,Nashville,"Towel Rack",120
+Nevada,"Las Vegas",Nails,120
+Florida,Orlando,"Large Sign",120
+California,"Los Angeles","End Table",120
+Arizona,Phoenix,"Small Area Rug",120
+Illinois,Chicago,Pillowcase,120
+Nevada,"Las Vegas",Conditioner,120
+Oregon,Portland,"Side Table",120
+Colorado,Denver,"Bed Sheet (Double)",120
+Massachusetts,Boston,Mouthwash,120
+Louisiana,"New Orleans",Iron,120
+Georgia,Atlanta,Moisturizer,120
+Oregon,Portland,Conditioner,120
+Florida,Orlando,"Coffee Cup",120
+Pennsylvania,Philadelphia,"Envelopes (Letter)",120
+Massachusetts,Boston,"Bar Stool",120
+Virginia,Richmond,Pens,120
+California,"San Francisco","Large Area Rug",120
+Oregon,Portland,"Window Screen",120
+Tennessee,Nashville,"Envelopes (Letter)",120
+Ohio,Cincinnati,"Drinking Glass",120
+Ohio,Cincinnati,Mouthwash,120
+Florida,Orlando,Mouthwash,120
+Tennessee,Nashville,"Bar Stool",120
+Tennessee,Nashville,"Large Sign",120
+Louisiana,"New Orleans","Light Bulb",119
+Nevada,"Las Vegas","Light Bulb",119
+Oregon,Portland,"Light Bulb",119
+Florida,Orlando,"Door Lock",117
+Ohio,Cincinnati,"Bed Sheet (King)",116
+Pennsylvania,Philadelphia,"Table Lamp",114
+Virginia,Arlington,"Table Lamp",114
+Massachusetts,Boston,"Toilet Paper",114
+Ohio,Cincinnati,Telephone,114
+Missouri,"Kansas City",Telephone,114
+Virginia,Richmond,"Table Lamp",114
+California,"Los Angeles",Screws,112
+Washington,Seattle,"Note Pads",112
+Illinois,Chicago,"Small Sign",112
+Texas,Dallas,"Note Pads",112
+Massachusetts,Boston,Screws,112
+Missouri,"Kansas City",Tissues,112
+Missouri,"Kansas City","Envelopes (Legal)",112
+California,"San Francisco","Adjustable Wrench",110
+Illinois,Chicago,"Floor Lamp",110
+Washington,Seattle,"Duct Tape",108
+California,"San Francisco","Gaffer's Tape",108
+Missouri,"Kansas City","Clothes Hanger",108
+California,"San Francisco","Ironing Board",108
+"New York","New York","Poster Stand",108
+Colorado,Denver,"Clothes Hanger",108
+Arizona,Phoenix,"Gaffer's Tape",108
+Pennsylvania,Philadelphia,"Large Vase",108
+Florida,Orlando,"Clothes Hanger",108
+Illinois,Chicago,"Large Vase",108
+Tennessee,Nashville,"Clothes Hanger",108
+California,"Los Angeles","Poster Stand",108
+Virginia,Richmond,"Poster Stand",108
+Texas,Dallas,"Gaffer's Tape",108
+Virginia,Arlington,"Large Plant",105
+Tennessee,Nashville,"Bath Soap",105
+Pennsylvania,Philadelphia,Mop,105
+Tennessee,Nashville,"Wood Glue",105
+Massachusetts,Boston,"Large Plant",105
+Virginia,Richmond,Pillowcase,105
+Arizona,Phoenix,"Bath Soap",105
+"New York","New York","Bath Soap",105
+Tennessee,Nashville,Mop,105
+Missouri,"Kansas City",Pillowcase,105
+California,"San Francisco",Mop,105
+California,"Los Angeles",Pillowcase,105
+Florida,Orlando,"Large Plant",105
+Illinois,Chicago,"Hand Soap",105
+Texas,Dallas,"Large Plant",105
+Georgia,Atlanta,"Bath Soap",105
+Washington,Seattle,"Hand Soap",105
+Missouri,"Kansas City","Envelopes (Catalog)",104
+Texas,Dallas,"Envelopes (Catalog)",104
+Nevada,"Las Vegas","Envelopes (Catalog)",104
+Arizona,Phoenix,"Coffee Table",103
+Massachusetts,Boston,"Light Bulb",102
+Missouri,"Kansas City","Light Bulb",102
+Washington,Seattle,Hammer,102
+Virginia,Richmond,"Light Bulb",102
+California,"Los Angeles",Hammer,102
+Georgia,Atlanta,"Light Bulb",102
+California,"San Francisco","Computer Desk",102
+Virginia,Arlington,"Towel Rack",100
+California,"Los Angeles","Small Area Rug",100
+Louisiana,"New Orleans","Towel Rack",100
+Tennessee,Nashville,"Bed Sheet (Double)",100
+Georgia,Atlanta,"Printer Paper",100
+California,"San Francisco","Large Sign",100
+California,"San Francisco","Bed Sheet (Double)",100
+Virginia,Richmond,"Small Area Rug",100
+Colorado,Denver,Iron,100
+Missouri,"Kansas City","Small Plant",100
+Virginia,Arlington,"Bed Sheet (Double)",100
+Oregon,Portland,"Small Area Rug",100
+Washington,Seattle,"Small Area Rug",100
+Louisiana,"New Orleans","Bed Sheet (Double)",100
+Washington,Seattle,"Large Sign",100
+Florida,Orlando,"Printer Paper",100
+Texas,Dallas,"Small Vase",99
+Pennsylvania,Philadelphia,"Small Vase",99
+Washington,Seattle,"Large Towel",99
+California,"Los Angeles","Small Vase",99
+Pennsylvania,Philadelphia,"Small Sign",98
+Oregon,Portland,Tissues,98
+"New York","New York","Note Pads",98
+Tennessee,Nashville,"Note Pads",98
+Virginia,Arlington,Screws,98
+Louisiana,"New Orleans",Screws,98
+"New York","New York",Tissues,98
+Nevada,"Las Vegas","Envelopes (Letter)",96
+Oregon,Portland,"Tape Measure",96
+Pennsylvania,Philadelphia,"Coffee Cup",96
+Oregon,Portland,"Coffee Cup",96
+Tennessee,Nashville,"Drinking Glass",96
+Illinois,Chicago,"Envelopes (Letter)",96
+California,"San Francisco","Drinking Glass",96
+Georgia,Atlanta,"Coffee Cup",96
+"New York","New York","Envelopes (Letter)",96
+Louisiana,"New Orleans","Coffee Cup",96
+California,"Los Angeles",Staples,96
+California,"Los Angeles","Coffee Cup",96
+Arizona,Phoenix,"Drinking Glass",96
+Arizona,Phoenix,"Envelopes (Letter)",96
+Ohio,Cincinnati,"Toilet Paper",95
+Virginia,Richmond,"Toilet Paper",95
+Illinois,Chicago,"Envelopes (Catalog)",91
+Massachusetts,Boston,"Envelopes (Catalog)",91
+Georgia,Atlanta,Pillowcase,90
+California,"San Francisco","Window Screen",90
+Virginia,Richmond,"Adjustable Wrench",90
+Ohio,Cincinnati,Pillowcase,90
+Pennsylvania,Philadelphia,"Large Towel",90
+Missouri,"Kansas City","Window Screen",90
+Colorado,Denver,"Ironing Board",90
+California,"Los Angeles","Shower Cap",90
+Washington,Seattle,Pens,90
+Illinois,Chicago,"Shower Cap",90
+Pennsylvania,Philadelphia,"End Table",90
+Georgia,Atlanta,Pens,90
+Ohio,Cincinnati,"Shower Cap",90
+Oregon,Portland,"End Table",90
+Tennessee,Nashville,Photograph,90
+Georgia,Atlanta,Mop,90
+Virginia,Arlington,Photograph,90
+Louisiana,"New Orleans",Pens,90
+Texas,Dallas,"Invisible Tape",88
+California,"Los Angeles","Invisible Tape",88
+Arizona,Phoenix,"Bed Sheet (King)",87
+Georgia,Atlanta,"Bed Sheet (King)",87
+Colorado,Denver,"Bed Sheet (King)",87
+"New York","New York","Light Bulb",85
+Texas,Dallas,Hammer,85
+"New York","New York","Office Chair",85
+Illinois,Chicago,"Printer Toner",85
+Illinois,Chicago,Hammer,85
+Arizona,Phoenix,"Light Bulb",85
+Oregon,Portland,Mirror,85
+Colorado,Denver,"Office Chair",85
+California,"Los Angeles","Small Sign",84
+Tennessee,Nashville,Nails,84
+Oregon,Portland,Nails,84
+Colorado,Denver,Tissues,84
+Pennsylvania,Philadelphia,"Envelopes (Legal)",84
+Louisiana,"New Orleans","Envelopes (Legal)",84
+Tennessee,Nashville,"Envelopes (Legal)",84
+Oregon,Portland,"Wood Glue",84
+Georgia,Atlanta,"Small Sign",84
+Florida,Orlando,"Envelopes (Legal)",84
+Missouri,"Kansas City","Wood Glue",84
+Washington,Seattle,"Erasable Markers",84
+Illinois,Chicago,"Envelopes (Legal)",84
+Virginia,Arlington,Tissues,84
+Ohio,Cincinnati,"Note Pads",84
+Texas,Dallas,"Door Knob",82
+Georgia,Atlanta,"Door Knob",82
+Florida,Orlando,"Door Knob",82
+California,"Los Angeles","Large Towel",81
+Ohio,Cincinnati,"Large Towel",81
+Oregon,Portland,"Gaffer's Tape",81
+Washington,Seattle,"Poster Stand",81
+Missouri,"Kansas City","Duct Tape",81
+Florida,Orlando,"Large Vase",81
+Pennsylvania,Philadelphia,"Duct Tape",81
+Missouri,"Kansas City","Poster Stand",81
+Texas,Dallas,"Sticky Notes",80
+Virginia,Arlington,Shampoo,80
+Pennsylvania,Philadelphia,"Tape Measure",80
+Colorado,Denver,"Side Table",80
+Arizona,Phoenix,"Adjustable Wrench",80
+Georgia,Atlanta,"Tape Measure",80
+Florida,Orlando,"Invisible Tape",80
+Missouri,"Kansas City",Conditioner,80
+Florida,Orlando,"Towel Rack",80
+Washington,Seattle,Moisturizer,80
+Florida,Orlando,Moisturizer,80
+Arizona,Phoenix,"Sticky Notes",80
+Washington,Seattle,"Large Area Rug",80
+Georgia,Atlanta,"Bed Sheet (Double)",80
+Nevada,"Las Vegas","Shower Cap",80
+Arizona,Phoenix,"Low Chair",80
+Louisiana,"New Orleans",Mouthwash,80
+Illinois,Chicago,"Small Area Rug",80
+Colorado,Denver,Shampoo,80
+Georgia,Atlanta,"Large Sign",80
+Florida,Orlando,"Shower Cap",80
+Virginia,Arlington,"Large Area Rug",80
+Washington,Seattle,"Adjustable Wrench",80
+Missouri,"Kansas City","Sticky Notes",80
+Florida,Orlando,"Large Area Rug",80
+Missouri,"Kansas City",Mouthwash,80
+Massachusetts,Boston,"Large Area Rug",80
+Missouri,"Kansas City","Large Area Rug",80
+Louisiana,"New Orleans","Side Table",80
+California,"Los Angeles",Iron,80
+"New York","New York","Large Area Rug",80
+Virginia,Richmond,"Erasable Markers",78
+Virginia,Richmond,"Envelopes (Catalog)",78
+Oregon,Portland,"Envelopes (Catalog)",78
+Oregon,Portland,"Table Lamp",76
+Massachusetts,Boston,"Table Lamp",76
+Illinois,Chicago,"Table Lamp",76
+Ohio,Cincinnati,"Table Lamp",76
+Arizona,Phoenix,Telephone,76
+Missouri,"Kansas City","Table Lamp",76
+California,"San Francisco",Pillowcase,75
+Texas,Dallas,"Tissue Box",75
+Massachusetts,Boston,"Tall Chair",75
+Oregon,Portland,Pillowcase,75
+"New York","New York","Small Plant",75
+Illinois,Chicago,"Tissue Box",75
+California,"San Francisco","Tissue Box",75
+Tennessee,Nashville,Pillowcase,75
+Pennsylvania,Philadelphia,"Tall Chair",75
+Arizona,Phoenix,"Tall Chair",75
+Virginia,Arlington,"Envelopes (Letter)",72
+Missouri,"Kansas City",Nails,72
+Tennessee,Nashville,"Invisible Tape",72
+Arizona,Phoenix,"Coffee Cup",72
+Tennessee,Nashville,"Tape Measure",72
+Illinois,Chicago,"Tape Measure",72
+Colorado,Denver,"Permanent Markers",72
+California,"San Francisco","Tape Measure",72
+Texas,Dallas,"Tape Measure",72
+Illinois,Chicago,"Ironing Board",72
+Massachusetts,Boston,"Clothes Hanger",72
+Georgia,Atlanta,"Envelopes (Letter)",72
+Colorado,Denver,"Drinking Glass",72
+Georgia,Atlanta,"Drinking Glass",72
+Oregon,Portland,"Clothes Hanger",72
+Massachusetts,Boston,"Towel Rack",70
+Colorado,Denver,"Hand Towel",70
+Louisiana,"New Orleans","Small Sign",70
+Virginia,Arlington,"Shower Cap",70
+Georgia,Atlanta,Screws,70
+Arizona,Phoenix,Tissues,70
+Oregon,Portland,"Small Sign",70
+Texas,Dallas,"Small Sign",70
+California,"Los Angeles","Hand Soap",70
+Florida,Orlando,"Wireless Router",70
+Nevada,"Las Vegas","Small Sign",70
+California,"Los Angeles","Note Pads",70
+Colorado,Denver,Screws,70
+Florida,Orlando,"Note Pads",70
+California,"Los Angeles",Tissues,70
+Texas,Dallas,"Towel Rack",70
+Washington,Seattle,"Small Sign",70
+"New York","New York","Small Sign",70
+Texas,Dallas,"Bath Soap",70
+Nevada,"Las Vegas","Bath Soap",70
+Texas,Dallas,"Wireless Router",70
+California,"Los Angeles","Light Bulb",68
+Ohio,Cincinnati,Hammer,68
+Florida,Orlando,Hammer,68
+Massachusetts,Boston,"Permanent Markers",66
+Oregon,Portland,"Serving Tray",66
+Pennsylvania,Philadelphia,"Envelopes (Catalog)",65
+Louisiana,"New Orleans","Envelopes (Catalog)",65
+Ohio,Cincinnati,"Tape Measure",64
+Missouri,"Kansas City","Tape Measure",64
+Nevada,"Las Vegas","Tape Measure",64
+Tennessee,Nashville,Staples,64
+California,"Los Angeles","Tape Measure",64
+Nevada,"Las Vegas","Invisible Tape",64
+Texas,Dallas,Staples,64
+California,"San Francisco",Staples,64
+Louisiana,"New Orleans","Large Towel",63
+Ohio,Cincinnati,"Wood Glue",63
+Georgia,Atlanta,"Wood Glue",63
+Virginia,Richmond,"Wood Glue",63
+California,"San Francisco","Large Towel",63
+Nevada,"Las Vegas","Large Towel",63
+Virginia,Arlington,"Wood Glue",63
+Texas,Dallas,"Wood Glue",63
+Washington,Seattle,Mop,60
+Oregon,Portland,"Adjustable Wrench",60
+California,"San Francisco","Towel Rack",60
+California,"Los Angeles","Erasable Markers",60
+Massachusetts,Boston,Nails,60
+Tennessee,Nashville,Iron,60
+Texas,Dallas,Mop,60
+Massachusetts,Boston,"Adjustable Wrench",60
+Georgia,Atlanta,Nails,60
+Washington,Seattle,"Bed Sheet (Double)",60
+Pennsylvania,Philadelphia,"Shower Cap",60
+California,"San Francisco","Permanent Markers",60
+Massachusetts,Boston,Mop,60
+Missouri,"Kansas City","Towel Rack",60
+Virginia,Richmond,"Serving Tray",60
+Louisiana,"New Orleans",Pillowcase,60
+Ohio,Cincinnati,"Bed Sheet (Double)",60
+Nevada,"Las Vegas","Adjustable Wrench",60
+Illinois,Chicago,Iron,60
+Louisiana,"New Orleans","Adjustable Wrench",60
+Georgia,Atlanta,"Hand Towel",60
+Oregon,Portland,Iron,60
+Missouri,"Kansas City","Serving Tray",60
+Virginia,Richmond,"Window Screen",60
+California,"San Francisco",Nails,60
+Massachusetts,Boston,"Bed Sheet (Double)",60
+Massachusetts,Boston,"Small Area Rug",60
+Georgia,Atlanta,"Towel Rack",60
+Illinois,Chicago,"Sticky Notes",60
+Ohio,Cincinnati,"Small Area Rug",60
+Florida,Orlando,Pens,60
+"New York","New York","Business Cards",60
+"New York","New York","Window Screen",60
+Pennsylvania,Philadelphia,Pens,60
+Louisiana,"New Orleans",Mop,60
+Arizona,Phoenix,"End Table",60
+Arizona,Phoenix,"Bar Stool",60
+Florida,Orlando,Iron,60
+Arizona,Phoenix,"Toilet Paper",57
+Illinois,Chicago,"Toilet Paper",57
+California,"San Francisco","Toilet Paper",57
+Colorado,Denver,"Toilet Paper",57
+Texas,Dallas,"Toilet Paper",57
+Virginia,Arlington,"Invisible Tape",56
+Virginia,Richmond,Screws,56
+Arizona,Phoenix,"Small Sign",56
+California,"San Francisco","Envelopes (Legal)",56
+Ohio,Cincinnati,Staples,56
+Louisiana,"New Orleans","Invisible Tape",56
+California,"San Francisco","Small Sign",56
+"New York","New York","Tape Measure",56
+Arizona,Phoenix,Screws,56
+Missouri,"Kansas City","Note Pads",56
+Virginia,Richmond,Tissues,56
+Virginia,Arlington,Staples,56
+Washington,Seattle,Tissues,56
+Colorado,Denver,"Note Pads",56
+Arizona,Phoenix,"Envelopes (Legal)",56
+Missouri,"Kansas City",Screws,56
+"New York","New York","Hand Towel",55
+California,"Los Angeles","Hand Towel",55
+"New York","New York","Floor Lamp",55
+Pennsylvania,Philadelphia,"Floor Lamp",55
+California,"Los Angeles","Permanent Markers",54
+"New York","New York","Ironing Board",54
+Louisiana,"New Orleans","Ironing Board",54
+Virginia,Richmond,"Clothes Hanger",54
+Arizona,Phoenix,"Ironing Board",54
+Arizona,Phoenix,"Duct Tape",54
+Georgia,Atlanta,"Ironing Board",54
+Georgia,Atlanta,"Gaffer's Tape",54
+Texas,Dallas,"Large Towel",54
+Illinois,Chicago,"Poster Stand",54
+Georgia,Atlanta,"Large Towel",54
+Tennessee,Nashville,"Ironing Board",54
+Arizona,Phoenix,"Poster Stand",54
+Louisiana,"New Orleans","Clothes Hanger",54
+Massachusetts,Boston,"Ironing Board",54
+Missouri,"Kansas City","Gaffer's Tape",54
+Missouri,"Kansas City","Large Towel",54
+Virginia,Arlington,"Large Vase",54
+Virginia,Arlington,"Gaffer's Tape",54
+Washington,Seattle,"Clothes Hanger",54
+Tennessee,Nashville,"Envelopes (Catalog)",52
+Missouri,"Kansas City",Hammer,51
+Florida,Orlando,"Light Bulb",51
+Nevada,"Las Vegas",Hammer,51
+Oregon,Portland,Hammer,51
+Ohio,Cincinnati,"Small Plant",50
+Virginia,Arlington,"Hand Towel",50
+Tennessee,Nashville,"Hand Towel",50
+Virginia,Richmond,"Shower Curtain",50
+Florida,Orlando,"Adjustable Wrench",50
+"New York","New York","Towel Rack",50
+Georgia,Atlanta,"Shower Cap",50
+"New York","New York","Shower Cap",50
+Arizona,Phoenix,"Shower Curtain",50
+Tennessee,Nashville,"Shower Cap",50
+Washington,Seattle,"Shower Curtain",50
+Colorado,Denver,"Adjustable Wrench",50
+Colorado,Denver,"Towel Rack",50
+Texas,Dallas,"Adjustable Wrench",50
+Colorado,Denver,"Small Plant",50
+California,"Los Angeles","Tissue Box",50
+Massachusetts,Boston,"Small Plant",50
+California,"Los Angeles",Nails,48
+Illinois,Chicago,"Permanent Markers",48
+Texas,Dallas,"Coffee Cup",48
+Colorado,Denver,Staples,48
+Texas,Dallas,"Serving Tray",48
+Washington,Seattle,"Drinking Glass",48
+Georgia,Atlanta,"Permanent Markers",48
+Ohio,Cincinnati,"Paper Clips",48
+California,"San Francisco","Invisible Tape",48
+Texas,Dallas,Nails,48
+Virginia,Richmond,"Tape Measure",48
+Nevada,"Las Vegas",Staples,48
+Massachusetts,Boston,"Erasable Markers",48
+Washington,Seattle,"Coffee Cup",48
+Georgia,Atlanta,Staples,48
+Colorado,Denver,Nails,48
+Texas,Dallas,"Permanent Markers",48
+California,"Los Angeles","Serving Tray",48
+Oregon,Portland,Staples,48
+Pennsylvania,Philadelphia,Staples,48
+Arizona,Phoenix,"Invisible Tape",48
+"New York","New York",Mop,45
+Texas,Dallas,Pillowcase,45
+Colorado,Denver,"Shower Curtain",45
+Virginia,Arlington,"Alarm Clock",45
+Nevada,"Las Vegas",Mop,45
+Washington,Seattle,Pillowcase,45
+Tennessee,Nashville,"Shower Curtain",45
+Florida,Orlando,Mop,45
+Virginia,Richmond,Mop,45
+Pennsylvania,Philadelphia,Photograph,45
+Colorado,Denver,Mop,45
+Nevada,"Las Vegas","Alarm Clock",45
+California,"San Francisco",Photograph,45
+California,"Los Angeles",Mop,45
+Virginia,Arlington,Mop,45
+Washington,Seattle,Screws,42
+Tennessee,Nashville,"Permanent Markers",42
+Florida,Orlando,"Small Sign",42
+Virginia,Arlington,"Serving Tray",42
+Arizona,Phoenix,"Wood Glue",42
+California,"San Francisco",Screws,42
+Georgia,Atlanta,"Erasable Markers",42
+Nevada,"Las Vegas","Wood Glue",42
+Nevada,"Las Vegas",Tissues,42
+Oregon,Portland,"Permanent Markers",42
+Nevada,"Las Vegas","Note Pads",42
+Arizona,Phoenix,"Note Pads",42
+Pennsylvania,Philadelphia,Tissues,42
+Colorado,Denver,"Wood Glue",42
+Arizona,Phoenix,"Door Knob",41
+Missouri,"Kansas City","Adjustable Wrench",40
+Illinois,Chicago,"Shower Curtain",40
+Oregon,Portland,"Towel Rack",40
+Florida,Orlando,"Tape Measure",40
+Pennsylvania,Philadelphia,"Adjustable Wrench",40
+"New York","New York","Shower Curtain",40
+Massachusetts,Boston,Staples,40
+Arizona,Phoenix,"Large Sign",40
+Virginia,Richmond,"Hand Towel",40
+Colorado,Denver,"Large Area Rug",40
+Virginia,Arlington,"Adjustable Wrench",40
+Virginia,Richmond,Iron,40
+"New York","New York","Large Sign",40
+Oregon,Portland,"Shower Cap",40
+California,"San Francisco","Side Table",40
+Oregon,Portland,"Large Area Rug",40
+Oregon,Portland,"Shower Curtain",40
+California,"Los Angeles","Large Sign",40
+Illinois,Chicago,Staples,40
+Washington,Seattle,Iron,40
+Tennessee,Nashville,Conditioner,40
+Louisiana,"New Orleans",Staples,40
+Texas,Dallas,Shampoo,40
+Louisiana,"New Orleans",Shampoo,40
+California,"Los Angeles",Moisturizer,40
+Georgia,Atlanta,Iron,40
+California,"San Francisco","Sticky Notes",40
+Virginia,Arlington,"Envelopes (Catalog)",39
+Colorado,Denver,"Envelopes (Catalog)",39
+Georgia,Atlanta,"Envelopes (Catalog)",39
+California,"San Francisco","Envelopes (Catalog)",39
+Virginia,Arlington,"Toilet Paper",38
+Virginia,Arlington,Telephone,38
+California,"Los Angeles","Toilet Paper",38
+"New York","New York","Toilet Paper",38
+Missouri,"Kansas City","Toilet Paper",38
+Virginia,Arlington,"Permanent Markers",36
+Georgia,Atlanta,Washcloth,36
+Pennsylvania,Philadelphia,"Paper Clips",36
+Ohio,Cincinnati,"Flyer Holder",36
+Tennessee,Nashville,"Serving Tray",36
+Louisiana,"New Orleans",Nails,36
+Arizona,Phoenix,"Large Towel",36
+Louisiana,"New Orleans","Serving Tray",36
+Washington,Seattle,"Permanent Markers",36
+Colorado,Denver,"Erasable Markers",36
+Virginia,Arlington,"Large Towel",36
+Texas,Dallas,"Clothes Hanger",36
+California,"Los Angeles","Clothes Hanger",36
+Nevada,"Las Vegas",Washcloth,36
+Virginia,Richmond,"Ironing Board",36
+Virginia,Richmond,"Large Towel",36
+Tennessee,Nashville,"Erasable Markers",36
+Arizona,Phoenix,"Clothes Hanger",36
+Pennsylvania,Philadelphia,"Permanent Markers",36
+Virginia,Richmond,Nails,36
+Georgia,Atlanta,"Clothes Hanger",36
+Virginia,Arlington,Nails,36
+Pennsylvania,Philadelphia,"Hand Towel",35
+Arizona,Phoenix,"Hand Towel",35
+Nevada,"Las Vegas","Shower Curtain",35
+Virginia,Richmond,"Hand Soap",35
+Virginia,Arlington,"Shower Curtain",35
+Colorado,Denver,"Large Plant",35
+Tennessee,Nashville,"Large Plant",35
+California,"Los Angeles","Large Plant",35
+Missouri,"Kansas City","Hand Soap",35
+Washington,Seattle,"Large Plant",35
+California,"San Francisco","Bath Soap",35
+Pennsylvania,Philadelphia,Hammer,34
+Virginia,Richmond,Hammer,34
+Ohio,Cincinnati,"Light Bulb",34
+"New York","New York",Hammer,34
+Tennessee,Nashville,"Light Bulb",34
+Washington,Seattle,"Light Bulb",34
+"New York","New York",Washcloth,33
+Massachusetts,Boston,"Small Vase",33
+California,"San Francisco","Small Vase",33
+Oregon,Portland,"Small Vase",33
+Georgia,Atlanta,"Small Vase",33
+Arizona,Phoenix,Staples,32
+Georgia,Atlanta,"Invisible Tape",32
+Washington,Seattle,"Tape Measure",32
+California,"San Francisco","Shower Cap",30
+Illinois,Chicago,Mop,30
+Ohio,Cincinnati,Mop,30
+Arizona,Phoenix,"Erasable Markers",30
+California,"San Francisco","Shower Curtain",30
+"New York","New York","Permanent Markers",30
+Texas,Dallas,Washcloth,30
+Illinois,Chicago,"Hand Towel",30
+Louisiana,"New Orleans","Shower Curtain",30
+Nevada,"Las Vegas","Towel Rack",30
+Virginia,Arlington,Pillowcase,30
+Washington,Seattle,"Serving Tray",30
+Pennsylvania,Philadelphia,"Serving Tray",30
+California,"Los Angeles","Adjustable Wrench",30
+Missouri,"Kansas City","Erasable Markers",30
+Nevada,"Las Vegas",Pillowcase,30
+Ohio,Cincinnati,"Erasable Markers",30
+Colorado,Denver,"End Table",30
+Arizona,Phoenix,"Towel Rack",30
+Massachusetts,Boston,"Window Screen",30
+Massachusetts,Boston,"Shower Curtain",30
+Virginia,Richmond,"Shower Cap",30
+Colorado,Denver,"Shower Cap",30
+"New York","New York","Adjustable Wrench",30
+Tennessee,Nashville,"Bed Sheet (King)",29
+Virginia,Richmond,"Bed Sheet (King)",29
+Nevada,"Las Vegas","Envelopes (Legal)",28
+Texas,Dallas,Tissues,28
+Illinois,Chicago,Tissues,28
+Oregon,Portland,Screws,28
+Ohio,Cincinnati,"Small Sign",28
+Louisiana,"New Orleans","Note Pads",28
+Florida,Orlando,Screws,28
+"New York","New York",Screws,28
+Nevada,"Las Vegas",Screws,28
+Massachusetts,Boston,"Small Sign",28
+Colorado,Denver,"Small Sign",28
+Tennessee,Nashville,"Small Sign",28
+Florida,Orlando,"Large Towel",27
+Virginia,Richmond,"Flyer Holder",27
+Colorado,Denver,"Large Towel",27
+Florida,Orlando,"Poster Stand",27
+Tennessee,Nashville,"Poster Stand",27
+Oregon,Portland,"Duct Tape",27
+Arizona,Phoenix,"Large Vase",27
+Georgia,Atlanta,"Duct Tape",27
+"New York","New York","Envelopes (Catalog)",26
+Washington,Seattle,"Envelopes (Catalog)",26
+Texas,Dallas,"Shower Curtain",25
+Georgia,Atlanta,"Shower Curtain",25
+Oregon,Portland,"Tissue Box",25
+California,"San Francisco","Paper Clips",24
+Illinois,Chicago,"Invisible Tape",24
+Nevada,"Las Vegas","Erasable Markers",24
+Georgia,Atlanta,"Flyer Holder",24
+Pennsylvania,Philadelphia,"Erasable Markers",24
+Nevada,"Las Vegas","Drinking Glass",24
+Massachusetts,Boston,"Envelopes (Letter)",24
+California,"San Francisco","Erasable Markers",24
+California,"Los Angeles","Envelopes (Letter)",24
+Louisiana,"New Orleans","Tape Measure",24
+"New York","New York","Erasable Markers",24
+Colorado,Denver,"Invisible Tape",24
+Washington,Seattle,Staples,24
+Virginia,Arlington,"Tape Measure",24
+Pennsylvania,Philadelphia,Washcloth,24
+Missouri,"Kansas City","Invisible Tape",24
+Virginia,Richmond,"Permanent Markers",24
+Missouri,"Kansas City",Staples,24
+Ohio,Cincinnati,"Invisible Tape",24
+Louisiana,"New Orleans","Flyer Holder",21
+Virginia,Arlington,Washcloth,21
+Ohio,Cincinnati,Washcloth,21
+Virginia,Richmond,"Paper Clips",21
+Illinois,Chicago,Washcloth,21
+Pennsylvania,Philadelphia,"Towel Rack",20
+Louisiana,"New Orleans","Hand Towel",20
+Florida,Orlando,"Hand Towel",20
+Missouri,"Kansas City","Shower Cap",20
+Illinois,Chicago,"Adjustable Wrench",20
+Georgia,Atlanta,"Sticky Notes",20
+Arizona,Phoenix,Iron,20
+California,"Los Angeles","Sticky Notes",20
+Washington,Seattle,"Towel Rack",20
+Texas,Dallas,"Shower Cap",20
+Tennessee,Nashville,"Toilet Paper",19
+California,"Los Angeles","Flyer Holder",18
+Virginia,Arlington,"Paper Clips",18
+Massachusetts,Boston,"Flyer Holder",18
+Washington,Seattle,"Paper Clips",18
+Arizona,Phoenix,"Serving Tray",18
+Missouri,"Kansas City","Flyer Holder",18
+Texas,Dallas,"Erasable Markers",18
+"New York","New York","Large Towel",18
+Missouri,"Kansas City","Permanent Markers",18
+Illinois,Chicago,"Flyer Holder",18
+Arizona,Phoenix,Washcloth,18
+Florida,Orlando,"Erasable Markers",18
+Florida,Orlando,"Ironing Board",18
+Massachusetts,Boston,"Serving Tray",18
+"New York","New York","Clothes Hanger",18
+California,"San Francisco","Clothes Hanger",18
+Ohio,Cincinnati,"Clothes Hanger",18
+Tennessee,Nashville,Hammer,17
+Florida,Orlando,Staples,16
+Oregon,Portland,"Invisible Tape",16
+Arizona,Phoenix,"Tape Measure",16
+Massachusetts,Boston,"Invisible Tape",16
+Pennsylvania,Philadelphia,"Flyer Holder",15
+Louisiana,"New Orleans",Washcloth,15
+Texas,Dallas,"Hand Towel",15
+Nevada,"Las Vegas","Hand Towel",15
+Missouri,"Kansas City","Paper Clips",15
+Missouri,"Kansas City",Washcloth,15
+Oregon,Portland,"Hand Towel",15
+Missouri,"Kansas City","Hand Towel",15
+California,"San Francisco","Hand Towel",15
+Florida,Orlando,"Shower Curtain",15
+Massachusetts,Boston,Tissues,14
+Georgia,Atlanta,Tissues,14
+California,"San Francisco",Tissues,14
+California,"San Francisco","Note Pads",14
+Pennsylvania,Philadelphia,Screws,14
+Virginia,Arlington,"Note Pads",14
+California,"Los Angeles",Washcloth,12
+Nevada,"Las Vegas","Serving Tray",12
+"New York","New York","Serving Tray",12
+Illinois,Chicago,"Paper Clips",12
+Massachusetts,Boston,"Paper Clips",12
+Washington,Seattle,Washcloth,12
+Oregon,Portland,"Flyer Holder",12
+Arizona,Phoenix,Nails,12
+Ohio,Cincinnati,"Permanent Markers",12
+"New York","New York",Nails,12
+Louisiana,"New Orleans","Permanent Markers",12
+Washington,Seattle,Nails,12
+Louisiana,"New Orleans","Paper Clips",12
+Georgia,Atlanta,"Paper Clips",12
+Illinois,Chicago,"Serving Tray",12
+Florida,Orlando,"Paper Clips",12
+Massachusetts,Boston,"Shower Cap",10
+Missouri,"Kansas City","Shower Curtain",10
+Ohio,Cincinnati,"Shower Curtain",10
+Washington,Seattle,"Hand Towel",10
+Massachusetts,Boston,"Hand Towel",10
+Louisiana,"New Orleans","Shower Cap",10
+California,"Los Angeles","Shower Curtain",10
+Ohio,Cincinnati,"Adjustable Wrench",10
+Washington,Seattle,"Shower Cap",10
+Florida,Orlando,Washcloth,9
+Massachusetts,Boston,Washcloth,9
+Tennessee,Nashville,"Flyer Holder",9
+Nevada,"Las Vegas","Flyer Holder",9
+Tennessee,Nashville,"Large Towel",9
+Virginia,Richmond,Washcloth,9
+Illinois,Chicago,"Large Towel",9
+Florida,Orlando,"Flyer Holder",9
+Virginia,Arlington,"Flyer Holder",9
+Oregon,Portland,"Paper Clips",9
+Texas,Dallas,"Paper Clips",9
+Massachusetts,Boston,"Tape Measure",8
+"New York","New York","Invisible Tape",8
+Virginia,Richmond,"Invisible Tape",8
+Virginia,Arlington,"Erasable Markers",6
+Oregon,Portland,Washcloth,6
+California,"San Francisco","Flyer Holder",6
+California,"San Francisco",Washcloth,6
+Ohio,Cincinnati,"Serving Tray",6
+Florida,Orlando,"Serving Tray",6
+Colorado,Denver,"Flyer Holder",6
+Arizona,Phoenix,"Paper Clips",6
+Arizona,Phoenix,"Permanent Markers",6
+Colorado,Denver,"Serving Tray",6
+Texas,Dallas,"Flyer Holder",6
+"New York","New York","Flyer Holder",6
+Tennessee,Nashville,"Paper Clips",6
+Pennsylvania,Philadelphia,"Shower Curtain",5
+Ohio,Cincinnati,"Hand Towel",5
+"New York","New York","Paper Clips",3
+Tennessee,Nashville,Washcloth,3
+Colorado,Denver,Washcloth,3
+Washington,Seattle,"Flyer Holder",3
+Colorado,Denver,"Paper Clips",3
+Arizona,Phoenix,"Flyer Holder",3
